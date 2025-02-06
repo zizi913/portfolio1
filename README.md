@@ -27,6 +27,6 @@
 ![portfolio画面遷移図](https://github.com/user-attachments/assets/f4ad178e-9d6e-4d9d-9e41-56f0c4b6150f)
 ## 今後の機能追加と改善案
 - UI、CSSの改善
-- 掲示板にAjaxの追加
+- 掲示板にAjax通信に対応させる
 - 出退勤データをもとに勤務時間や給与の計算
 - シフト追加画面を直感的に操作できるようカレンダー化
